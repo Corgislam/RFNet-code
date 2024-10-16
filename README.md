@@ -16,7 +16,7 @@ you can download this pth in follow links.
 
 Ours_best.pth   
 In China: https://pan.baidu.com/s/1usBfcKwh00FDDLe-fxhaAg?pwd=xfg4  code: xfg4   
-In Other Countrys:  
+In Other Countrys: https://drive.google.com/file/d/1GaRpN5p8Yt2WdS8Q7MNzb-F4vjlxqULf/view?usp=drive_link 
 
 
 **Our poster**
