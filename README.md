@@ -2,6 +2,10 @@
 
 We will release the  code and weights pth.      
 
+**Title and Publish **  
+RFNet: Refined Fusion Three-Branch RGB-D Salient Object Detection Network.  
+2024 IEEE International Conference on Image Processing 
+October 29, 2024|University of Shanghai for Science and Technology
 
 **Our Code**
 
