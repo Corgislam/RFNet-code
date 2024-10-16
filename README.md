@@ -17,6 +17,6 @@ In Other Countrys:
 
 **Our poster**
 <div align=center>
-	<img src="https://github.com/Corgislam/RFNet-code/blob/main/poster.png"/>
+	// <img src="https://github.com/Corgislam/RFNet-code/blob/main/poster.png"/>
 
 </div>
