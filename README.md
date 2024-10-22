@@ -9,7 +9,7 @@ University of Shanghai for Science and Technology
 
 
 **Environmental requirements** 
-```javascript
+```python
 pip install opencv-python  
 ```
 
