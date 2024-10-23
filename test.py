@@ -6,7 +6,7 @@ import torch.nn as nn
 import numpy as np
 import os, argparse
 import cv2
-from Code.lib.model import XMSNet
+from Code.lib.model import RFNet
 from Code.lib.filter import anisodiff2D
 from Code.utils.data import test_dataset
 from Code.utils.options import opt
@@ -18,7 +18,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = opt.gpu_id
 print('USE GPU {}'.format(opt.gpu_id))
 ano_fil = anisodiff2D(num_iter=10, delta_t=1/7, kappa=50, option=2)
 # load the model
-model = XMSNet()
+model = RFNet()
 model.cuda()
 ch = torch.load('./Ours_best.pth')
 print(ch.keys())
