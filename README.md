@@ -33,6 +33,19 @@ In Other Countrys: https://drive.google.com/file/d/1GaRpN5p8Yt2WdS8Q7MNzb-F4vjlx
 </div>
 
 
+**Cite**    
+If our work is useful to you please cite us.  
+```  
+@inproceedings{wang2024rfnet,
+  title={RFNET: Refined Fusion Three-Branch RGB-D Salient Object Detection Network},
+  author={Wang, Kexuan and Liu, Chenhua and Wei, Huiguang and Jing, Li and Zhang, Rongfu},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
+  pages={741--746},
+  year={2024},
+  organization={IEEE}
+}
+```
+
 **Contact**  
 If you have any questions, please do not hesitate to email us.   
 Email1：imagevisioner@outlook.com  
