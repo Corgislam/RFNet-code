@@ -44,8 +44,7 @@ for dataset in test_datasets:
         image = image.cuda()
         depth   = depth.cuda()
 
-        S8 = model(image,depth)#S0,S1,S2,S3,S4,S5,S6,S7,
-        res = S8
+        res = model(image,depth)
         #res = F.upsample(res, size=gt.shape, mode='bilinear', align_corners=False)
         res = res.sigmoid().data.cpu().numpy().squeeze()
         res = (res - res.min()) / (res.max() - res.min() + 1e-8)
